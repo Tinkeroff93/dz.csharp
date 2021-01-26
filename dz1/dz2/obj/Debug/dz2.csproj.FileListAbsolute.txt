@@ -1,0 +1,6 @@
+C:\Users\salo\source\repos\dz1\dz2\bin\Debug\dz2.exe.config
+C:\Users\salo\source\repos\dz1\dz2\bin\Debug\dz2.exe
+C:\Users\salo\source\repos\dz1\dz2\bin\Debug\dz2.pdb
+C:\Users\salo\source\repos\dz1\dz2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\salo\source\repos\dz1\dz2\obj\Debug\dz2.exe
+C:\Users\salo\source\repos\dz1\dz2\obj\Debug\dz2.pdb
