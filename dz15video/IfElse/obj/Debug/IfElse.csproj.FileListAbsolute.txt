@@ -1,0 +1,7 @@
+C:\Users\salo\source\repos\dz15video\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\salo\source\repos\dz15video\IfElse\bin\Debug\IfElse.exe
+C:\Users\salo\source\repos\dz15video\IfElse\bin\Debug\IfElse.pdb
+C:\Users\salo\source\repos\dz15video\IfElse\obj\Debug\IfElse.csprojAssemblyReference.cache
+C:\Users\salo\source\repos\dz15video\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\salo\source\repos\dz15video\IfElse\obj\Debug\IfElse.exe
+C:\Users\salo\source\repos\dz15video\IfElse\obj\Debug\IfElse.pdb

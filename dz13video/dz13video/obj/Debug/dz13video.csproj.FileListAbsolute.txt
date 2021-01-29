@@ -1,0 +1,7 @@
+C:\Users\salo\source\repos\dz13video\dz13video\obj\Debug\dz13video.csprojAssemblyReference.cache
+C:\Users\salo\source\repos\dz13video\dz13video\obj\Debug\dz13video.csproj.CoreCompileInputs.cache
+C:\Users\salo\source\repos\dz13video\dz13video\bin\Debug\dz13video.exe.config
+C:\Users\salo\source\repos\dz13video\dz13video\bin\Debug\dz13video.exe
+C:\Users\salo\source\repos\dz13video\dz13video\bin\Debug\dz13video.pdb
+C:\Users\salo\source\repos\dz13video\dz13video\obj\Debug\dz13video.exe
+C:\Users\salo\source\repos\dz13video\dz13video\obj\Debug\dz13video.pdb

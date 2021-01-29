@@ -1,0 +1,7 @@
+C:\Users\salo\source\repos\dz15video\dz15video\obj\Debug\Switch.csprojAssemblyReference.cache
+C:\Users\salo\source\repos\dz15video\dz15video\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+C:\Users\salo\source\repos\dz15video\dz15video\bin\Debug\dz15video.exe.config
+C:\Users\salo\source\repos\dz15video\dz15video\bin\Debug\dz15video.exe
+C:\Users\salo\source\repos\dz15video\dz15video\bin\Debug\dz15video.pdb
+C:\Users\salo\source\repos\dz15video\dz15video\obj\Debug\dz15video.exe
+C:\Users\salo\source\repos\dz15video\dz15video\obj\Debug\dz15video.pdb

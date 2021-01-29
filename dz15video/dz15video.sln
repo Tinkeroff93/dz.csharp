@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "dz15video\Switch.csproj", "{70DF7616-76ED-439E-8A9C-29693C4F795A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{1F153D1C-1AE0-4EA7-94DA-8C61ED33BDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DF7616-76ED-439E-8A9C-29693C4F795A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DF7616-76ED-439E-8A9C-29693C4F795A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DF7616-76ED-439E-8A9C-29693C4F795A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DF7616-76ED-439E-8A9C-29693C4F795A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F153D1C-1AE0-4EA7-94DA-8C61ED33BDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F153D1C-1AE0-4EA7-94DA-8C61ED33BDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F153D1C-1AE0-4EA7-94DA-8C61ED33BDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F153D1C-1AE0-4EA7-94DA-8C61ED33BDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD4BC280-7740-4402-8702-2D7E33C88EF0}
+	EndGlobalSection
+EndGlobal
